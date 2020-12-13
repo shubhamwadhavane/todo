@@ -1,4 +1,3 @@
-
 let todos = [];
 
 let addTodoForm = document.querySelector('#addTodoForm');
